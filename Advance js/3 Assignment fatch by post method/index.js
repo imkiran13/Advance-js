@@ -3,7 +3,7 @@ function hello(){
     method: 'POST',
     body: JSON.stringify({
       id: 1,
-      title: 'foo',
+      title: 'Hi',
       body: 'bar',
       userId: 1,
     }),

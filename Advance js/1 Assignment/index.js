@@ -1,11 +1,11 @@
 let users=[
     {"name":"akshay"},
-    {"name":"rajveer"},
-    {"name":"nishigandha"},
+    {"name":"ramesh"},
+    {"name":"harsh"},
     {"name":"komal"},
     {"name":"rohan"},
     {"name":"kiran"},
-    {"name":"shivam"}
+    {"name":"chirag"}
 ]
 //using map rxjs operator
 let userData=users.map(user=>{
